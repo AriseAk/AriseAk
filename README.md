@@ -57,8 +57,4 @@ I am a developer passionate about bridging the gap between complex AI models and
 ---
 
 ### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AriseAk&show_icons=true&theme=radical" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriseAk&layout=compact&theme=radical" height="150" alt="languages graph" />
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AriseAk&theme=radical&hide_border=true)
