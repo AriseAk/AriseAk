@@ -6,9 +6,19 @@
 
 *B.Tech in Artificial Intelligence and Machine Learning at B.M.S College Of Engineering*
 
-[![](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akshay-bhat-a2900a333/)
-[![](https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel)](https://akshaybhat.vercel.app/)
-[![](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:akshay.code.bhat@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshay-bhat-a2900a333/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://akshaybhat.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=social&logo=vercel" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="mailto:akshay.code.bhat@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=social&logo=gmail" alt="Email" />
+  </a>
+</p>
 
 </div>
 
