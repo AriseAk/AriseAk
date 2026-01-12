@@ -56,5 +56,5 @@ I am a developer passionate about bridging the gap between complex AI models and
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AriseAk&theme=radical&hide_border=true)
+### 🐍 My Contributions
+![Snake Animation](https://github.com/AriseAk/AriseAk/raw/output/github-contribution-grid-snake-dark.svg)
