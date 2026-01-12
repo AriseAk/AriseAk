@@ -56,5 +56,11 @@ I am a developer passionate about bridging the gap between complex AI models and
 
 ---
 
-### 🐍 My Contributions
-![Snake Animation](https://github.com/AriseAk/AriseAk/raw/output/github-contribution-grid-snake-dark.svg)
+### 📊 GitHub Stats
+
+![](https://raw.githubusercontent.com/AriseAk/AriseAk/master/profile-summary-card-output/radical/0-profile-details.svg)
+
+<p>
+  <img src="https://raw.githubusercontent.com/AriseAk/AriseAk/master/profile-summary-card-output/radical/2-most-commit-language.svg" height="170" />
+  <img src="https://raw.githubusercontent.com/AriseAk/AriseAk/master/profile-summary-card-output/radical/3-stats.svg" height="170" />
+</p>
