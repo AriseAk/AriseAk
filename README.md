@@ -15,9 +15,8 @@
 ---
 
 ### 🚀 About Me
-I am a developer passionate about bridging the gap between complex AI models and user-friendly web interfaces. I specialize in building scalable RAG pipelines, fine-tuning computer vision models, and developing full-stack applications.
+I am a developer passionate about bridging the gap between complex AI models and user-friendly web interfaces. I focus on transforming raw data into interactive experiences, leveraging modern web frameworks and advanced machine learning algorithms to solve open-ended problems.
 
-* 🔭 **I’m currently working on:** Advanced NLP applications using BERT and Large Language Models.
 * 🏆 **Hackathon Wins:** Top 6 at AiVerse 2.0 (National) & Top 15 at Phaseshift Tech Fest '25.
 * 🎓 **Alma Mater:** B.M.S College Of Engineering, Bengaluru.
 
@@ -60,6 +59,6 @@ I am a developer passionate about bridging the gap between complex AI models and
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AriseAk&show_icons=true&theme=radical" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriseAk&layout=compact&theme=radical" height="150" alt="languages graph" />
 </div>
