@@ -53,6 +53,8 @@ I am a developer passionate about bridging the gap between complex AI models and
 
 ---
 
+### 📂 Featured Projects
+
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
 | **CareBridge AI** | Python, RAG, React, SciSpaCy | An AI-powered healthcare support platform. Engineered a scalable RAG pipeline indexing **250,000+ medical dialogues** for semantic search. |
@@ -60,9 +62,11 @@ I am a developer passionate about bridging the gap between complex AI models and
 | **MoodQuest** | EfficientNet-B0, OpenCV, Flask | Real-time facial expression recognition system. Secured **6th Place Nationally** by utilizing a fine-tuned EfficientNet-B0 model. |
 | **FabrAIc** | ResNet50, PyTorch, Pandas | Visual search engine for fashion. Implemented a **Multi-task ResNet50** to create 2,048-dim visual embeddings for outfit discovery. |
 | **HackArena** | Flask, MongoDB, Google OAuth | Full-stack hackathon hosting platform. Features **Google OAuth** authentication and **containerized deployment** on Render. |
-### 📊 GitHub Stats
+
 
 ---
+
+### 📊 GitHub Stats
 
 <div align="center">
   
@@ -73,4 +77,4 @@ I am a developer passionate about bridging the gap between complex AI models and
   <img src="https://raw.githubusercontent.com/AriseAk/AriseAk/master/profile-summary-card-output/radical/3-stats.svg" height="170" />
 </p>
 </div>
-### 📂 Featured Projects
+
